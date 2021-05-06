@@ -1,6 +1,9 @@
 # ARC12
 ARCHITETTURA DEI CALCOLATORI E LABORATORIO DI ARCHITETTURA DEI CALCOLATORI - Computer Architecture
+
 Raffaele Montella - https://www.uniparthenope.it/ugov/person/1204
+
+Giuseppe Salvi - https://www.uniparthenope.it/ugov/person/3038
 
 The objective of the course of “Computer Architecture and Computer Architecture Laboratory” is to illustrate the basic aspects of modern electronic computers, as well as to handle and use, during the preposed laboratory activities, the basic concepts for their efficient programming in low-level languages, as machine language and Assembly. To this aim, after a careful coverage of the Boole Algebra (used in laboratory for the Synthesis of sequential and Combinatorial logical Networks), of the binary representation as well as the binary arithmetic, it illustrates in detail, as fundamental elements in the architecture of the information systems, the functional/physic scheme of the CPU, the memory and the I/O subsystem.During the course particular attention is devoted to the development of the Assembly code that, developed by the students as laboratoty activity, in addition to clarify them the effective principle of processor working, explains in detail the task, the interconnection and the interaction among the different basic units of a computer.
 
