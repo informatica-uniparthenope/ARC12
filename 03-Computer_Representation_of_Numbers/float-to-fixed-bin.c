@@ -31,7 +31,6 @@ int main(int argc, char **argv) {
         }
         idx--;
       }
-      
       printf("%s.%s\n",intDst,floatDst);
       return 0;
     } else {
